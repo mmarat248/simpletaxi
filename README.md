@@ -6,6 +6,8 @@ omitted since they are redundant at this stage, as the overall application archi
 yet defined. 
 To simplify development, some simplifications have been made, such as the absence of DTOs , connections between events, etc.
 
+As for metrics, I have added a few custom metrics to the project. They are available at the following path:
+```http://localhost:8080/metrics```
 
 ## How to test
 
